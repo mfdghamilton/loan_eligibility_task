@@ -1,0 +1,251 @@
+loan_amount,applicant_income,coapplicant_income,loan_term,age,employment_type,education,married,property_area,loan_status
+8431,6132,9994,24,21,Self-Employed,Graduate,Yes,Urban,0
+22542,2195,5335,12,62,Self-Employed,Not Graduate,Yes,Rural,0
+10713,18202,7286,180,43,Unemployed,Not Graduate,Yes,Urban,1
+31688,13252,1714,180,44,Salaried,Not Graduate,No,Rural,1
+22468,6008,9770,180,49,Unemployed,Graduate,Yes,Rural,0
+12058,3718,8749,60,49,Self-Employed,Not Graduate,Yes,Urban,0
+7500,13817,3255,360,45,Unemployed,Graduate,No,Rural,1
+29846,17098,6538,180,30,Self-Employed,Not Graduate,No,Urban,1
+40140,13856,1156,60,32,Unemployed,Not Graduate,No,Rural,0
+41852,15787,3140,12,36,Salaried,Graduate,Yes,Semiurban,1
+26770,12338,3364,36,32,Unemployed,Not Graduate,No,Urban,1
+27334,13752,5869,36,62,Self-Employed,Graduate,Yes,Rural,1
+8401,9097,7002,360,64,Salaried,Graduate,Yes,Semiurban,1
+15463,16714,7878,60,42,Self-Employed,Graduate,No,Rural,1
+13851,13240,4641,360,34,Salaried,Graduate,Yes,Semiurban,1
+27099,8306,9057,240,49,Self-Employed,Not Graduate,Yes,Urban,1
+41763,7920,8923,12,30,Unemployed,Graduate,No,Semiurban,0
+26875,14529,2676,180,64,Unemployed,Not Graduate,Yes,Semiurban,0
+21067,4046,6345,36,56,Unemployed,Graduate,Yes,Rural,0
+15733,15589,437,120,36,Unemployed,Not Graduate,Yes,Urban,1
+5109,14298,4265,180,48,Unemployed,Graduate,Yes,Semiurban,1
+33591,18399,509,120,44,Salaried,Not Graduate,No,Rural,1
+10741,10699,2643,24,45,Salaried,Not Graduate,Yes,Urban,1
+44164,7730,3156,180,31,Self-Employed,Graduate,No,Rural,0
+29746,14334,5988,60,37,Unemployed,Not Graduate,No,Semiurban,0
+9579,14075,3014,12,57,Self-Employed,Not Graduate,No,Semiurban,0
+5432,4266,1651,24,44,Self-Employed,Graduate,Yes,Urban,1
+25673,11696,2234,36,46,Unemployed,Graduate,Yes,Semiurban,1
+34381,6008,9907,12,55,Salaried,Not Graduate,Yes,Semiurban,0
+11687,10697,1661,360,65,Salaried,Graduate,Yes,Urban,1
+7876,18476,4431,240,48,Self-Employed,Graduate,Yes,Rural,1
+11079,12558,1986,240,64,Salaried,Not Graduate,Yes,Semiurban,1
+48721,3799,1205,360,62,Unemployed,Not Graduate,No,Urban,0
+14317,14471,5916,24,21,Unemployed,Graduate,Yes,Semiurban,0
+13273,3690,930,60,35,Salaried,Not Graduate,Yes,Rural,0
+6391,14727,4175,36,51,Self-Employed,Not Graduate,Yes,Urban,1
+24123,11781,5917,180,35,Salaried,Not Graduate,No,Urban,1
+33222,5521,2131,60,64,Salaried,Graduate,Yes,Rural,1
+42578,17255,4129,180,59,Unemployed,Graduate,No,Rural,1
+36255,12639,6729,240,35,Salaried,Not Graduate,No,Semiurban,1
+22388,9951,1519,360,30,Salaried,Graduate,No,Rural,1
+35755,16595,4259,24,59,Self-Employed,Graduate,No,Urban,1
+7408,10713,8510,240,43,Unemployed,Graduate,No,Rural,1
+24994,16392,9072,24,49,Salaried,Not Graduate,Yes,Rural,1
+27509,13273,1955,180,60,Self-Employed,Not Graduate,Yes,Semiurban,0
+39188,10140,8764,240,41,Salaried,Graduate,No,Urban,1
+36651,16925,1981,24,21,Salaried,Not Graduate,No,Rural,0
+18556,18416,5403,60,62,Salaried,Graduate,Yes,Urban,1
+44905,11011,4700,120,50,Self-Employed,Graduate,Yes,Rural,1
+46861,13048,5053,24,42,Salaried,Not Graduate,No,Urban,1
+39542,3598,7200,24,50,Salaried,Graduate,No,Semiurban,1
+42015,7970,3849,180,63,Salaried,Graduate,Yes,Semiurban,1
+25661,6041,87,36,24,Unemployed,Graduate,No,Urban,0
+5822,2652,1533,60,36,Salaried,Graduate,No,Rural,1
+31098,16028,1855,24,22,Self-Employed,Graduate,No,Semiurban,0
+47346,18267,1653,24,37,Self-Employed,Graduate,Yes,Urban,1
+38603,6321,7224,240,29,Unemployed,Graduate,No,Urban,1
+33467,17640,6361,360,38,Salaried,Graduate,Yes,Semiurban,1
+49881,19534,5878,240,32,Unemployed,Graduate,Yes,Rural,1
+40292,3401,2953,360,52,Salaried,Graduate,No,Semiurban,1
+46835,17411,2167,12,32,Unemployed,Not Graduate,Yes,Semiurban,0
+48690,19757,6347,240,63,Self-Employed,Not Graduate,No,Rural,0
+44092,6638,5,12,62,Unemployed,Not Graduate,No,Urban,0
+36859,12677,6805,24,31,Self-Employed,Graduate,No,Rural,1
+39118,14116,3435,120,36,Unemployed,Not Graduate,No,Semiurban,0
+48808,9237,3931,240,54,Unemployed,Not Graduate,No,Rural,0
+32492,3053,70,240,29,Unemployed,Graduate,Yes,Urban,1
+29544,17184,6835,180,32,Salaried,Graduate,No,Rural,1
+38427,18518,2124,180,62,Salaried,Not Graduate,Yes,Semiurban,1
+7086,11460,1373,180,38,Self-Employed,Graduate,Yes,Urban,1
+47300,2456,2861,24,46,Salaried,Not Graduate,No,Semiurban,0
+16892,12506,8783,180,56,Self-Employed,Not Graduate,No,Urban,1
+10413,14664,4369,36,51,Salaried,Graduate,No,Rural,1
+36909,9457,6902,24,24,Unemployed,Graduate,No,Semiurban,0
+48127,4052,2754,12,45,Unemployed,Graduate,No,Rural,0
+22163,10302,6391,360,57,Self-Employed,Graduate,No,Rural,1
+16149,11341,5006,240,47,Unemployed,Not Graduate,No,Semiurban,0
+26948,7505,1063,180,37,Salaried,Graduate,No,Semiurban,1
+27080,15633,390,12,65,Salaried,Not Graduate,Yes,Rural,1
+41320,13718,1999,60,63,Self-Employed,Graduate,No,Urban,1
+30637,15925,9321,120,41,Unemployed,Not Graduate,No,Semiurban,0
+9803,3422,6450,180,29,Unemployed,Graduate,No,Rural,0
+34934,2425,4360,120,25,Salaried,Not Graduate,Yes,Urban,0
+30405,18279,9313,36,35,Unemployed,Not Graduate,No,Urban,1
+42563,7399,877,180,49,Salaried,Not Graduate,No,Semiurban,0
+27027,8495,8906,360,62,Salaried,Not Graduate,Yes,Rural,1
+6068,3527,3080,180,40,Salaried,Graduate,Yes,Semiurban,1
+17390,10829,5084,60,26,Salaried,Graduate,Yes,Semiurban,1
+43417,19195,5102,12,44,Salaried,Graduate,Yes,Rural,1
+10777,7437,9788,360,31,Salaried,Not Graduate,No,Rural,0
+46177,19407,8968,36,47,Self-Employed,Not Graduate,No,Semiurban,0
+28823,8358,5541,60,38,Unemployed,Graduate,Yes,Urban,1
+5840,11920,371,180,50,Self-Employed,Graduate,No,Semiurban,1
+28063,18378,2380,60,55,Salaried,Not Graduate,Yes,Urban,1
+20016,17315,5048,360,51,Salaried,Graduate,No,Urban,1
+31589,9344,4667,60,60,Salaried,Graduate,No,Semiurban,1
+39864,11255,3276,120,23,Salaried,Not Graduate,Yes,Rural,0
+37834,19295,6995,36,24,Unemployed,Not Graduate,Yes,Urban,0
+8914,5019,3472,60,36,Self-Employed,Not Graduate,No,Semiurban,0
+46864,5382,8150,360,30,Self-Employed,Graduate,Yes,Urban,1
+23854,16506,736,360,50,Self-Employed,Not Graduate,No,Urban,1
+37425,19857,6925,180,48,Salaried,Not Graduate,Yes,Rural,1
+46287,11152,1075,360,35,Salaried,Graduate,No,Semiurban,1
+20294,8399,2522,360,27,Unemployed,Graduate,Yes,Urban,1
+40662,19062,2787,360,54,Self-Employed,Not Graduate,No,Semiurban,0
+36707,4220,775,120,52,Salaried,Graduate,Yes,Urban,1
+16638,14857,9009,240,23,Salaried,Not Graduate,No,Rural,0
+15076,15317,3643,120,60,Unemployed,Not Graduate,Yes,Rural,0
+40152,16698,1027,24,60,Unemployed,Graduate,Yes,Rural,1
+34130,5635,7356,240,44,Unemployed,Graduate,Yes,Urban,1
+29811,3971,9474,360,29,Self-Employed,Graduate,Yes,Semiurban,0
+35231,16177,3110,24,33,Salaried,Graduate,No,Semiurban,1
+7892,16287,6565,180,35,Unemployed,Graduate,No,Urban,1
+5665,18950,9328,240,22,Unemployed,Graduate,Yes,Urban,1
+13829,13680,7111,36,65,Unemployed,Graduate,No,Urban,1
+34906,7041,8762,60,25,Unemployed,Not Graduate,No,Rural,0
+17660,18161,5982,12,25,Unemployed,Not Graduate,No,Semiurban,0
+6376,6409,1222,36,53,Self-Employed,Not Graduate,Yes,Semiurban,0
+21800,8372,3542,240,55,Salaried,Graduate,Yes,Semiurban,1
+28071,8934,1469,360,53,Self-Employed,Graduate,No,Urban,1
+49889,9907,7197,120,51,Self-Employed,Graduate,No,Rural,1
+22821,3230,700,60,55,Self-Employed,Not Graduate,Yes,Urban,0
+33460,10011,8764,120,61,Unemployed,Not Graduate,No,Semiurban,0
+46567,8821,5102,36,52,Salaried,Not Graduate,No,Semiurban,1
+32548,4406,511,60,39,Unemployed,Graduate,Yes,Semiurban,0
+5023,15226,3411,240,61,Self-Employed,Graduate,Yes,Rural,1
+12118,2847,583,24,33,Self-Employed,Not Graduate,Yes,Rural,0
+45474,2359,2558,240,41,Salaried,Not Graduate,Yes,Rural,0
+9103,15507,8606,24,46,Salaried,Not Graduate,No,Semiurban,1
+38444,12548,1615,180,61,Salaried,Not Graduate,Yes,Urban,1
+28269,19921,831,360,62,Salaried,Not Graduate,Yes,Semiurban,1
+10818,2981,6746,36,33,Salaried,Not Graduate,Yes,Rural,0
+10433,3371,7741,36,54,Self-Employed,Not Graduate,No,Semiurban,0
+33390,10078,6296,180,60,Self-Employed,Not Graduate,Yes,Semiurban,0
+5561,16275,5468,36,34,Salaried,Graduate,No,Semiurban,1
+40114,11548,2989,36,33,Unemployed,Graduate,No,Urban,1
+29737,8092,6630,120,23,Unemployed,Graduate,Yes,Rural,0
+9815,11967,7022,240,63,Unemployed,Not Graduate,No,Semiurban,0
+40820,5693,1702,36,64,Unemployed,Graduate,Yes,Semiurban,0
+46621,11258,1430,36,54,Unemployed,Not Graduate,Yes,Semiurban,0
+31490,12643,712,360,33,Salaried,Graduate,Yes,Urban,1
+6909,8947,3538,120,61,Unemployed,Graduate,Yes,Urban,1
+26132,18891,2494,60,40,Unemployed,Graduate,No,Rural,1
+22205,2850,2227,60,38,Unemployed,Not Graduate,No,Semiurban,0
+35966,13846,9563,120,51,Salaried,Graduate,No,Rural,1
+7164,7009,4947,60,39,Self-Employed,Graduate,No,Rural,0
+41804,17266,5976,12,29,Unemployed,Graduate,No,Semiurban,1
+26943,9370,8357,120,55,Salaried,Not Graduate,No,Rural,1
+32136,15575,6894,60,46,Salaried,Not Graduate,No,Semiurban,1
+27830,9276,4312,360,41,Unemployed,Not Graduate,No,Semiurban,0
+6559,18729,4647,12,29,Unemployed,Graduate,Yes,Urban,1
+46885,16241,6733,36,36,Salaried,Not Graduate,Yes,Semiurban,1
+46686,14801,3015,36,30,Unemployed,Graduate,No,Rural,1
+15738,8191,8741,180,25,Unemployed,Not Graduate,No,Rural,0
+32462,14782,8669,36,44,Unemployed,Graduate,Yes,Rural,1
+9210,4525,9006,180,61,Unemployed,Not Graduate,Yes,Semiurban,0
+49502,18283,1501,12,35,Self-Employed,Not Graduate,No,Semiurban,0
+14436,3395,38,24,44,Self-Employed,Not Graduate,No,Rural,0
+29386,11397,9508,60,27,Salaried,Not Graduate,Yes,Urban,1
+48827,6562,9894,12,60,Self-Employed,Graduate,No,Semiurban,0
+20398,17585,2359,180,49,Salaried,Graduate,No,Semiurban,1
+10136,5500,8515,60,24,Salaried,Graduate,No,Urban,1
+46125,6128,9778,24,22,Self-Employed,Not Graduate,Yes,Rural,0
+8745,5997,9840,36,44,Unemployed,Graduate,Yes,Semiurban,0
+38993,17076,1656,360,60,Salaried,Not Graduate,Yes,Urban,1
+30376,13563,7439,240,57,Self-Employed,Graduate,No,Urban,1
+40227,2570,4035,36,23,Self-Employed,Graduate,No,Urban,0
+25064,16582,9031,24,62,Unemployed,Graduate,Yes,Rural,1
+14577,19067,7854,12,60,Unemployed,Not Graduate,No,Rural,0
+47987,13567,482,60,46,Unemployed,Graduate,No,Urban,1
+24083,11461,6089,24,42,Self-Employed,Graduate,No,Semiurban,1
+30510,13887,4853,240,62,Self-Employed,Not Graduate,No,Urban,1
+29149,8991,7625,36,27,Salaried,Not Graduate,No,Urban,1
+13288,14798,6119,60,31,Salaried,Not Graduate,No,Rural,1
+40056,3547,4656,120,61,Self-Employed,Not Graduate,Yes,Urban,0
+27133,5464,8822,36,33,Unemployed,Not Graduate,Yes,Urban,0
+38888,18663,9218,360,40,Salaried,Graduate,No,Rural,1
+12835,5108,9609,36,62,Unemployed,Graduate,Yes,Rural,0
+46262,12645,5548,180,47,Unemployed,Graduate,Yes,Urban,1
+15931,4712,3255,240,36,Unemployed,Not Graduate,No,Rural,0
+43620,8748,2771,12,49,Unemployed,Not Graduate,Yes,Urban,1
+30313,14592,650,360,58,Self-Employed,Graduate,Yes,Rural,1
+33323,7891,6142,120,61,Unemployed,Graduate,Yes,Semiurban,0
+9066,15722,858,240,40,Unemployed,Graduate,Yes,Rural,1
+13913,6133,9599,240,33,Unemployed,Not Graduate,Yes,Urban,0
+34801,17570,1586,36,58,Self-Employed,Not Graduate,Yes,Semiurban,0
+48807,6606,8041,36,42,Self-Employed,Not Graduate,Yes,Semiurban,0
+6350,2174,6102,60,39,Unemployed,Graduate,No,Urban,1
+27907,7326,6903,60,51,Unemployed,Not Graduate,Yes,Urban,0
+34473,4828,2903,120,58,Unemployed,Not Graduate,Yes,Semiurban,0
+48832,12847,1715,360,65,Self-Employed,Graduate,Yes,Semiurban,1
+34566,3058,1193,36,64,Salaried,Graduate,Yes,Urban,1
+24910,5218,3793,60,37,Salaried,Not Graduate,Yes,Urban,1
+33115,6797,9401,36,61,Salaried,Graduate,Yes,Urban,1
+6851,9178,6286,36,52,Unemployed,Not Graduate,Yes,Urban,1
+15392,16994,2224,60,44,Self-Employed,Not Graduate,Yes,Rural,0
+39182,16096,8298,360,53,Self-Employed,Not Graduate,No,Urban,1
+26289,8580,1629,24,58,Salaried,Not Graduate,Yes,Rural,1
+38871,15260,7997,24,44,Salaried,Not Graduate,Yes,Semiurban,1
+38732,3953,8612,120,31,Self-Employed,Graduate,No,Rural,0
+41475,3847,3796,36,50,Salaried,Graduate,Yes,Urban,1
+14002,6970,8605,12,52,Self-Employed,Graduate,Yes,Rural,0
+27516,5748,8151,360,54,Self-Employed,Not Graduate,Yes,Urban,0
+37776,17117,5492,240,25,Salaried,Not Graduate,No,Semiurban,0
+11866,4958,5165,60,62,Unemployed,Graduate,No,Urban,1
+40747,6401,9907,60,29,Self-Employed,Not Graduate,Yes,Urban,0
+29182,3349,6819,240,30,Self-Employed,Graduate,Yes,Semiurban,0
+19739,13761,4381,24,61,Self-Employed,Not Graduate,No,Urban,1
+42367,16400,5535,120,48,Unemployed,Not Graduate,No,Semiurban,0
+27287,8761,7878,120,24,Unemployed,Graduate,No,Semiurban,0
+11085,9836,2891,120,63,Unemployed,Not Graduate,No,Urban,1
+22809,9704,3854,120,44,Self-Employed,Not Graduate,Yes,Urban,1
+38180,16132,1673,60,46,Unemployed,Not Graduate,Yes,Urban,1
+20940,13188,864,36,64,Unemployed,Not Graduate,Yes,Rural,0
+18321,6686,8450,60,52,Unemployed,Not Graduate,No,Rural,0
+26106,4929,2354,60,62,Unemployed,Not Graduate,No,Semiurban,0
+22337,2312,6045,12,34,Unemployed,Not Graduate,No,Rural,0
+31094,11557,663,24,34,Salaried,Graduate,Yes,Semiurban,1
+7819,12727,2298,240,42,Unemployed,Graduate,No,Semiurban,1
+37803,15130,2411,120,22,Unemployed,Not Graduate,No,Rural,0
+10266,13323,2740,360,34,Salaried,Graduate,No,Semiurban,1
+17916,9500,6543,24,62,Self-Employed,Not Graduate,Yes,Urban,1
+38104,3994,2929,36,35,Unemployed,Not Graduate,No,Urban,0
+18074,3899,9144,360,31,Salaried,Graduate,No,Semiurban,1
+6124,4116,4080,180,60,Salaried,Not Graduate,Yes,Urban,1
+17724,5615,8333,24,29,Self-Employed,Not Graduate,No,Urban,0
+22580,10181,2992,240,37,Self-Employed,Graduate,No,Rural,1
+42003,11439,7961,120,36,Salaried,Graduate,No,Urban,1
+20134,9683,8194,24,48,Unemployed,Graduate,Yes,Semiurban,1
+10577,6099,85,360,29,Self-Employed,Not Graduate,Yes,Urban,0
+44328,2026,7710,12,58,Unemployed,Not Graduate,No,Urban,0
+25776,19797,2552,36,53,Salaried,Graduate,Yes,Rural,1
+10488,10626,4533,120,45,Self-Employed,Not Graduate,Yes,Urban,1
+27357,15791,5737,180,45,Salaried,Graduate,No,Semiurban,1
+41341,14050,8272,36,33,Salaried,Graduate,Yes,Semiurban,1
+40237,14144,7188,360,21,Salaried,Not Graduate,No,Rural,0
+13746,6268,3683,360,25,Salaried,Graduate,No,Semiurban,0
+40008,15659,1095,120,61,Unemployed,Not Graduate,Yes,Urban,1
+13876,3088,6993,24,58,Unemployed,Graduate,No,Semiurban,0
+36716,11480,7739,360,59,Self-Employed,Not Graduate,No,Semiurban,0
+37262,13464,6493,360,35,Self-Employed,Graduate,No,Semiurban,1
+31106,12271,5219,180,63,Salaried,Not Graduate,No,Semiurban,1
+6849,2107,774,180,31,Self-Employed,Graduate,No,Rural,0
+21833,13486,7034,24,36,Unemployed,Graduate,No,Semiurban,1
+42876,18592,6822,60,24,Self-Employed,Graduate,No,Rural,0
+36858,2094,1445,180,52,Self-Employed,Graduate,No,Urban,1
+27316,11638,5362,120,42,Salaried,Graduate,No,Semiurban,1
+30940,4617,7264,120,42,Salaried,Graduate,No,Urban,1
+19689,14403,7599,24,34,Unemployed,Graduate,No,Semiurban,1
+37850,8018,237,24,64,Unemployed,Graduate,No,Semiurban,1
