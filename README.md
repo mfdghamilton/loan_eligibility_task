@@ -22,5 +22,5 @@ This project is a **web application** that predicts whether an applicant is elig
 ### Installation  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/loan_eligibility_task.git
+   git clone https://github.com/mfdghamilton/loan_eligibility_task.git
    cd loan_eligibility_task
